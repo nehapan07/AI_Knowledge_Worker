@@ -1,0 +1,3 @@
+- [x] Update PrimaryButton component in App.jsx to accept and pass the 'type' prop to fix form submission error
+- [x] Fix syntax errors in backend/server.js by replacing non-breaking spaces with regular spaces
+- [x] Verify the fixes by testing the frontend compile (passed) and backend syntax (passed)
