@@ -88,19 +88,19 @@ Firebase project configuration JSON
 
 From your Firebase Project Settings -> SDK setup
 
-REACT_APP_NEWS_API_KEY
+611a4bcef0e94e5d984dff5c839bf646
 
 API key for the NewsAPI service
 
 Register at newsapi.org
 
-REACT_APP_ALPHA_VANTAGE_KEY
+FYBQO9RZDE2NH5TH
 
 API key for Alpha Vantage
 
 Claim a key at alphavantage.co
 
-REACT_APP_GEMINI_API_KEY
+AIzaSyBcjRhKG2m76EIJcJTkQk8LYDgpnWwN884
 
 API key for Google Gemini
 
@@ -119,4 +119,5 @@ The application will be available at http://localhost:3000 (or another port if 3
 Neha - Software Development Engineer, Intern
 
 This project was developed as part of an internship assignment for Cothon Solutions.
+
 
