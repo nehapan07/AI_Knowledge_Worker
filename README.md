@@ -63,13 +63,13 @@ Node.js (version specified in .nvmrc)
 A code editor (VS Code is recommended)
 
 2. Clone the Repository
-git clone [https://github.com/your-username/autonomous-ai-knowledge-worker.git](https://github.com/your-username/autonomous-ai-knowledge-worker.git)
+3. 
 cd autonomous-ai-knowledge-worker
 
-3. Install Dependencies
+4. Install Dependencies
 npm install
 
-4. Configure Environment Variables
+5. Configure Environment Variables
 Create a .env file in the root of the project by copying the example file:
 
 cp .env.example .env
@@ -119,3 +119,4 @@ The application will be available at http://localhost:3000 (or another port if 3
 Neha - Software Development Engineer, Intern
 
 This project was developed as part of an internship assignment for Cothon Solutions.
+
